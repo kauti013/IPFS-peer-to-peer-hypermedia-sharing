@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ACN">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ACN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
